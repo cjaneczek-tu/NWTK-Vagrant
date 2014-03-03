@@ -1,0 +1,4 @@
+NWTK-Vagrant
+============
+
+AUTOMATISCHES VM PROVISIONING
